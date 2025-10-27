@@ -1,0 +1,10 @@
+TP2_Structures/TP2_Structures/Program.cs
+TP2_Structures/TP2_Structures/frmAccueil.Designer.cs
+TP2_Structures/TP2_Structures/frmFactoriel.cs
+TP2_Structures/TP2_Structures/frmJeux.Designer.cs
+TP2_Structures/TP2_Structures/Properties/AssemblyInfo.cs
+TP2_Structures/TP2_Structures/frmFactoriel.Designer.cs
+TP2_Structures/TP2_Structures/frmTableaux.cs
+TP2_Structures/TP2_Structures/frmJeux.cs
+TP2_Structures/TP2_Structures/frmAccueil.cs
+TP2_Structures/TP2_Structures/frmTableaux.Designer.cs
